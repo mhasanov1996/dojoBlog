@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Opening Party!",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n\n\nWhere does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\nWhere can I get some?\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "author": "yoshi",
+      "id": 1
+    },
+    {
+      "title": "What is eSim?",
+      "body": "An eSIM is a digital SIM that allows you to activate a cellular plan from your carrier without having to use a physical nano-SIM. With iPhone 13 Pro Max, iPhone 13 Pro, iPhone 13, and iPhone 13 mini, you can use Dual SIM with either two active eSIMs or a nano-SIM and an eSIM.",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Voice over LTE",
+      "body": "Voice over Long-Term Evolution (VoLTE) is an LTE high-speed wireless communication standard for mobile phones and data terminals, including Internet of things (IoT) devices and wearables. VoLTE has up to three times more voice and data capacity than older 3G UMTS and up to six times more than 2G GSM. It uses less bandwidth because VoLTE's packet headers are smaller than those of unoptimized VoIP/LTE.[1] VoLTE calls are usually charged at the same rate as other calls.\n\nTo be able to make a VoLTE call, the device, its firmware, and the mobile telephone provider must all support the service in the area, and be able to work together. VoLTE has been marketed as HD Voice by some carriers, but this is not the same as the VoLTE standard. Moreover, HD+ (EVS) is what actually is used only in LTE; HD Voice was available in 3G too.",
+      "author": "yoshi",
+      "id": 3
+    },
+    {
+      "title": "I'm Using @reach/router, Now What?",
+      "body": "We will continue to support @reach/router 1.0 with bugfixes for the foreseeable future, so you don't need to do anything for a long time if you don't want to.\n\nIf the new API interests you however, the migration should be pretty straightforward. The next React Router API, on the surface, looks more like @reach/router than React Router. Most of the changes have a one-to-one mapping between both APIs and some are identical.\n\nBecause of this, we don't recommend switching to React Router in preparation for the hook-based API. You'll have an easier time migrating from your current code.",
+      "author": "mario",
+      "id": 4
+    }
+  ]
+}
